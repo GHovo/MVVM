@@ -5,7 +5,7 @@ import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
 import com.example.mymvvmpproject.general.model.NicePlace;
-import com.example.mymvvmpproject.general.model.network.NicePlaceRepository;
+import com.example.mymvvmpproject.general.viewModel.repository.NicePlaceRepository;
 
 import java.util.List;
 

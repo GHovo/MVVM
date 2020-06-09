@@ -1,4 +1,4 @@
-package com.example.mymvvmpproject.general.model.network;
+package com.example.mymvvmpproject.general.viewModel.repository;
 
 import androidx.lifecycle.MutableLiveData;
 

@@ -7,12 +7,12 @@
 <data class="ActivityMainBinding">
     <variable
         name="main"
-        type="com.example.mymvvmpproject.MainActivity" />
+        type="com.example.mymvvmpproject.general.view.MainActivity" />
 </data>
 <androidx.constraintlayout.widget.ConstraintLayout
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".general.view.MainActivity">
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recycler_view"

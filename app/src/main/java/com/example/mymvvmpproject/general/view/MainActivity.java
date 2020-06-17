@@ -1,4 +1,4 @@
-package com.example.mymvvmpproject;
+package com.example.mymvvmpproject.general.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.databinding.DataBindingUtil;
@@ -10,6 +10,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import android.content.Context;
 import android.os.Bundle;
 
+import com.example.mymvvmpproject.R;
 import com.example.mymvvmpproject.adapter.RecyclerViewAdapter;
 import com.example.mymvvmpproject.databinding.ActivityMainBinding;
 import com.example.mymvvmpproject.general.model.NicePlace;
